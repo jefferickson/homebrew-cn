@@ -1,8 +1,8 @@
 class Cn < Formula
     desc "Find the index of a label in a CSV header"
     homepage "https://github.com/jefferickson/cn"
-    url "https://github.com/jefferickson/cn/archive/0.1.0.tar.gz"
-    sha256 "e8b6180d472b3ed4e5a1f3904ea289e17d8ca194ebadfdf2ee5493d63df65e63"
+    url "https://github.com/jefferickson/cn/archive/0.2.0.tar.gz"
+    sha256 "b54addb658d675b13f3f43a3d657f4c9a663fac22c32f83d5e494a282b517dc4"
     head "https://github.com/jefferickson/cn.git"
 
     depends_on "go" => :build
